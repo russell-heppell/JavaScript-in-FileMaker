@@ -4,6 +4,7 @@
   "author": "jeremy@integratingmagic.io",
   "license": "ISC",
   "description": "a generic development environment for developing JS in FileMaker",
+  "type": "module",
   "scripts": {
     "start": "parcel index.html  --no-source-maps",
     "build": "parcel build index.html",
